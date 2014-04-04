@@ -23,3 +23,5 @@
 (define nums
   (lambda (n)
     (cdr (iota (+ n 1)))))
+
+(define name "Olivia")
