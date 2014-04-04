@@ -8,7 +8,7 @@
 ;;;   A few sample utilities, created as part of a lab on GitHub.
 
 ;;; Procedure:
-;;;   first-n-numbers
+;;;   one-to
 ;;; Parameters:
 ;;;   n, a positive integer
 ;;; Purpose:
@@ -21,7 +21,7 @@
 ;;;   (length list-of-nums) == n
 ;;;   (list-ref list-of-nums i) = i+1
 ;;;     for all i, 0 <= i < n.
-(define first-n-numbers
+(define one-to
   (lambda (n)
     (cdr (iota (+ n 1)))))
 
