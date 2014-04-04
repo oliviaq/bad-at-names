@@ -6,6 +6,7 @@
 ;;;   Olivia Queathem
 ;;; Summary:
 ;;;   A few sample utilities, created as part of a lab on GitHub.
+
 ;;; Procedure:
 ;;;   first-n-numbers
 ;;; Parameters:
